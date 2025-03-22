@@ -1,0 +1,6 @@
+[1] Cài đặt thư viện
+    pip install opencv-python scikit-learn scikit-image joblib tqdm argparse matplotlib imagehash
+[2] Chạy file train
+    python training_script.py
+[3] chạy file app
+    python inference_script.py 

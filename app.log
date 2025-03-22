@@ -1,0 +1,451 @@
+2025-02-24 14:03:21,783 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-24 14:03:27,108 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-24 14:03:28,617 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-24 14:03:31,807 - INFO - Độ chính xác - Train: 0.97, Test: 0.96
+2025-02-24 14:03:31,915 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250224_1403.joblib
+2025-02-27 15:16:51,924 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 15:17:13,896 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 15:17:15,450 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 15:17:18,702 - INFO - Độ chính xác - Train: 0.97, Test: 0.96
+2025-02-27 15:17:18,803 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1516.joblib
+2025-02-27 15:32:20,315 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 15:32:25,646 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 15:32:27,219 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 15:32:30,391 - INFO - Độ chính xác - Train: 0.97, Test: 0.96
+2025-02-27 15:32:30,490 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1532.joblib
+2025-02-27 15:37:33,084 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 15:37:39,716 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 15:37:41,274 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 15:37:44,597 - INFO - Độ chính xác - Train: 0.97, Test: 0.96
+2025-02-27 15:37:44,700 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1537.joblib
+2025-02-27 15:37:58,222 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 15:38:03,965 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 15:38:05,493 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 15:38:08,680 - INFO - Độ chính xác - Train: 0.97, Test: 0.96
+2025-02-27 15:38:08,784 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1537.joblib
+2025-02-27 15:43:17,409 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 15:43:24,074 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 15:43:25,625 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 15:43:28,904 - INFO - Độ chính xác - Train: 0.97, Test: 0.96
+2025-02-27 15:43:29,008 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1543.joblib
+2025-02-27 15:57:19,722 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 15:57:30,540 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 15:57:53,290 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 15:57:53,483 - INFO - Độ chính xác - Train: 1.00, Test: 0.62
+2025-02-27 15:57:53,483 - WARNING - Cảnh báo: Mô hình có thể bị overfitting!
+2025-02-27 15:57:53,517 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1557.joblib
+2025-02-27 16:00:42,143 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:00:49,058 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:01:12,182 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:01:12,236 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:01:12,270 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1600.joblib
+2025-02-27 16:13:46,827 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:13:53,016 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:14:17,268 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:14:17,501 - INFO - Độ chính xác - Train: 1.00, Test: 0.62
+2025-02-27 16:14:17,501 - WARNING - Cảnh báo: Mô hình có thể bị overfitting!
+2025-02-27 16:14:17,546 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1613.joblib
+2025-02-27 16:14:38,230 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:15:39,385 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:15:48,052 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:16:11,463 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:16:11,533 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:16:11,573 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1615.joblib
+2025-02-27 16:20:52,652 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:21:03,348 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:21:26,940 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:21:27,013 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:21:27,061 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1620.joblib
+2025-02-27 16:23:26,630 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:23:37,351 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:24:01,770 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:24:01,854 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:24:01,905 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1623.joblib
+2025-02-27 16:26:06,169 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:26:16,058 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:27:59,138 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:27:59,213 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:27:59,396 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1626.joblib
+2025-02-27 16:31:23,185 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:31:31,408 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:33:15,695 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:33:15,767 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:33:15,947 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1631.joblib
+2025-02-27 16:36:02,036 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:36:10,928 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:37:55,010 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:37:55,117 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:37:55,299 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1636.joblib
+2025-02-27 16:42:39,586 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:42:52,959 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-02-27 16:49:59,977 - INFO - Bắt đầu huấn luyện mô hình
+2025-02-27 16:50:00,067 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-02-27 16:50:01,022 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250227_1642.joblib
+2025-02-27 16:58:58,448 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-02-27 16:59:09,513 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 13:23:24,966 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 13:23:57,306 - ERROR - Lỗi nghiêm trọng: Unable to allocate 25.1 GiB for an array with shape (804, 2048, 2048) and data type float64
+Traceback (most recent call last):
+  File "training_script.py", line 91, in main
+    images, labels = load_dataset(DATA_DIR, augment=args.augment)
+  File "training_script.py", line 198, in load_dataset
+    return np.array(images), np.array(labels)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 25.1 GiB for an array with shape (804, 2048, 2048) and data type float64
+2025-03-01 13:24:46,091 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 13:25:04,583 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 13:29:20,885 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 13:29:21,103 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 13:29:21,407 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1324.joblib
+2025-03-01 13:39:36,393 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 13:40:00,957 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 13:43:54,567 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 13:43:54,709 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 13:43:54,955 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1339.joblib
+2025-03-01 13:48:12,667 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 13:48:28,789 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 14:02:33,386 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 14:02:33,532 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 14:02:34,556 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1348.joblib
+2025-03-01 14:52:35,048 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-01 14:52:54,716 - INFO - Phát hiện 0 ảnh trùng lặp trong dữ liệu huấn luyện
+2025-03-01 15:06:21,407 - INFO - Bắt đầu quá trình xử lý dữ liệu kiểm tra từ Testcases
+2025-03-01 15:06:21,408 - ERROR - Lỗi nghiêm trọng: Thiếu thư mục: dataset\Testcases\normal
+Traceback (most recent call last):
+  File "training_script.py", line 109, in main
+    test_images, test_labels = load_dataset(TEST_DIR, img_size=(1024, 1024), augment=False)
+  File "training_script.py", line 160, in load_dataset
+    raise ValueError(f"Thiếu thư mục: {class_dir}")
+ValueError: Thiếu thư mục: dataset\Testcases\normal
+2025-03-01 15:07:20,453 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-01 15:07:33,974 - INFO - Phát hiện 0 ảnh trùng lặp trong dữ liệu huấn luyện
+2025-03-01 15:11:00,492 - INFO - Bắt đầu quá trình xử lý dữ liệu kiểm tra từ Testcases
+2025-03-01 15:11:00,493 - ERROR - Lỗi nghiêm trọng: Thiếu thư mục: dataset\Testcases\normal
+Traceback (most recent call last):
+  File "training_script.py", line 109, in main
+    test_images, test_labels = load_dataset(TEST_DIR, img_size=(512, 512), augment=False)
+  File "training_script.py", line 160, in load_dataset
+    raise ValueError(f"Thiếu thư mục: {class_dir}")
+ValueError: Thiếu thư mục: dataset\Testcases\normal
+2025-03-01 15:11:21,013 - INFO - Bắt đầu xử lý dữ liệu huấn luyện
+2025-03-01 15:11:36,993 - INFO - Phát hiện 0 ảnh trùng lặp trong dữ liệu huấn luyện
+2025-03-01 15:14:55,855 - INFO - Bắt đầu xử lý dữ liệu kiểm tra từ Testcases
+2025-03-01 15:14:55,856 - INFO - Không tìm thấy folder 'normal' và 'cancer' trong dataset\Testcases. Tải ảnh test không có nhãn.
+2025-03-01 15:15:56,230 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 15:15:56,364 - INFO - Dữ liệu test không có nhãn, thực hiện dự đoán:
+2025-03-01 15:15:56,802 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1511.joblib
+2025-03-01 15:22:04,584 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 15:22:18,123 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 15:25:49,362 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 15:25:49,508 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 15:25:49,773 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1522.joblib
+2025-03-01 15:29:34,908 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 15:29:51,223 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 15:33:21,490 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 15:33:21,638 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 15:33:21,926 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1529.joblib
+2025-03-01 15:35:14,012 - INFO - Bắt đầu quá trình xử lý dữ liệu
+2025-03-01 15:35:27,277 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 15:39:07,670 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 15:39:07,870 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 15:39:08,160 - INFO - Model đã được lưu tại: models\lung_cancer_svm_20250301_1535.joblib
+2025-03-01 15:48:10,904 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-01 15:48:22,384 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 15:51:54,068 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 15:51:54,219 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 15:51:54,487 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-01 15:55:16,794 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-01 15:55:29,802 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 15:59:00,642 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 15:59:00,787 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 15:59:01,072 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-01 16:02:56,212 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-01 16:03:51,371 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-01 16:39:42,053 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-01 16:39:42,294 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-01 16:39:45,891 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-07 19:52:05,112 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 01:27:01,945 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 01:27:18,820 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 01:29:06,563 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 01:29:06,646 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 01:29:06,835 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 01:35:10,753 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 01:35:17,583 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 01:36:59,243 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 01:36:59,313 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 01:36:59,500 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 02:05:12,638 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:05:20,773 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 02:06:52,418 - ERROR - Lỗi nghiêm trọng: The 'test_size' parameter of train_test_split must be a float in the range (0.0, 1.0), an int in the range [1, inf) or None. Got 1.0 instead.
+Traceback (most recent call last):
+  File "training_script.py", line 125, in main
+    X_train, X_test, y_train, y_test = train_test_split(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\_param_validation.py", line 204, in wrapper
+    validate_parameter_constraints(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\_param_validation.py", line 96, in validate_parameter_constraints
+    raise InvalidParameterError(
+sklearn.utils._param_validation.InvalidParameterError: The 'test_size' parameter of train_test_split must be a float in the range (0.0, 1.0), an int in the range [1, inf) or None. Got 1.0 instead.
+2025-03-21 02:07:11,821 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:07:17,660 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 02:09:06,688 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:09:13,328 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 02:10:51,679 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 02:10:51,751 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 02:10:51,820 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 02:12:44,970 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:12:51,397 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 02:14:31,612 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 02:14:31,679 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 02:14:31,867 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 02:44:08,231 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:44:47,869 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 02:46:28,627 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 02:46:28,693 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 02:46:28,885 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 02:57:03,550 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:57:14,732 - ERROR - Lỗi nghiêm trọng: name 'visualize_samples' is not defined
+Traceback (most recent call last):
+  File "training_script.py", line 94, in main
+    visualize_samples(images, labels)
+NameError: name 'visualize_samples' is not defined
+2025-03-21 02:57:32,066 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 02:57:34,840 - ERROR - Lỗi nghiêm trọng: name 'visualize_samples' is not defined
+Traceback (most recent call last):
+  File "training_script.py", line 94, in main
+    visualize_samples(images, labels)
+NameError: name 'visualize_samples' is not defined
+2025-03-21 03:00:48,998 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 03:00:53,721 - INFO - Phát hiện 445 ảnh trùng lặp
+2025-03-21 03:00:53,721 - ERROR - Lỗi nghiêm trọng: name 'extract_combined_features' is not defined
+Traceback (most recent call last):
+  File "training_script.py", line 103, in main
+    X = extract_combined_features(images, detailed=args.detailed)
+NameError: name 'extract_combined_features' is not defined
+2025-03-21 03:00:59,040 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 03:01:10,200 - INFO - Phát hiện 445 ảnh trùng lặp
+2025-03-21 03:01:10,200 - ERROR - Lỗi nghiêm trọng: name 'extract_combined_features' is not defined
+Traceback (most recent call last):
+  File "training_script.py", line 103, in main
+    X = extract_combined_features(images, detailed=args.detailed)
+NameError: name 'extract_combined_features' is not defined
+2025-03-21 03:02:36,729 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 03:02:46,458 - ERROR - Lỗi nghiêm trọng: name 'visualize_samples' is not defined
+Traceback (most recent call last):
+  File "training_script.py", line 94, in main
+    visualize_samples(images, labels)
+NameError: name 'visualize_samples' is not defined
+2025-03-21 03:07:43,651 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 03:07:58,832 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 03:18:36,110 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 03:18:37,351 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 03:18:37,578 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 03:49:38,507 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 03:49:52,960 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 04:09:29,207 - ERROR - Lỗi nghiêm trọng: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+Traceback (most recent call last):
+  File "training_script.py", line 134, in main
+    X_train = scaler.fit_transform(X_train)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 916, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 960, in partial_fit
+    self.mean_, self.var_, self.n_samples_seen_ = _incremental_mean_and_var(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\extmath.py", line 1056, in _incremental_mean_and_var
+    temp = X - T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+2025-03-21 04:18:34,996 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 04:18:51,329 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 04:22:39,001 - ERROR - Lỗi nghiêm trọng: local_binary_pattern() got an unexpected keyword argument 'radius'
+Traceback (most recent call last):
+  File "training_script.py", line 109, in main
+    X = extract_combined_features(images, detailed=args.detailed)
+  File "training_script.py", line 288, in extract_combined_features
+    lbp = local_binary_pattern(img, **lbp_params)
+TypeError: local_binary_pattern() got an unexpected keyword argument 'radius'
+2025-03-21 04:23:38,011 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 04:23:56,559 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 04:25:35,430 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 04:25:55,710 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 04:29:46,233 - ERROR - Lỗi nghiêm trọng: local_binary_pattern() got an unexpected keyword argument 'radius'
+Traceback (most recent call last):
+  File "training_script.py", line 109, in main
+    X = extract_combined_features(images, detailed=args.detailed)
+  File "training_script.py", line 286, in extract_combined_features
+    lbp = local_binary_pattern(img, **lbp_params)
+TypeError: local_binary_pattern() got an unexpected keyword argument 'radius'
+2025-03-21 04:37:51,321 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 04:38:05,510 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 05:11:45,933 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 05:12:01,679 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 05:31:28,020 - ERROR - Lỗi nghiêm trọng: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+Traceback (most recent call last):
+  File "training_script.py", line 134, in main
+    X_train = scaler.fit_transform(X_train)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 916, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 960, in partial_fit
+    self.mean_, self.var_, self.n_samples_seen_ = _incremental_mean_and_var(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\extmath.py", line 1056, in _incremental_mean_and_var
+    temp = X - T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+2025-03-21 05:33:39,771 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 05:36:34,161 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 05:46:58,374 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 05:46:59,626 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 05:46:59,873 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 05:49:20,222 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 05:52:56,924 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 06:03:14,646 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 06:03:15,970 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 06:03:16,224 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 06:04:45,519 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 06:11:52,641 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 06:22:12,186 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 06:22:13,488 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 06:22:13,757 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 20:19:03,753 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 20:19:16,927 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 20:29:35,113 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 20:29:36,298 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 20:29:36,515 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 20:31:45,349 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 20:32:03,254 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 20:43:37,288 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 20:43:38,426 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-21 20:43:38,626 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-21 21:09:08,157 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 21:09:46,592 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 21:18:53,028 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 21:18:53,028 - INFO - Khởi chạy GridSearchCV
+2025-03-21 23:27:32,819 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-21 23:28:11,431 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-21 23:37:37,815 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-21 23:37:37,815 - INFO - Khởi chạy GridSearchCV
+2025-03-22 00:13:27,985 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 00:13:43,866 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 00:15:50,794 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 00:16:06,862 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 00:22:45,675 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 00:22:58,876 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 00:43:31,122 - ERROR - Lỗi nghiêm trọng: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+Traceback (most recent call last):
+  File "training_script.py", line 135, in main
+    X_train = scaler.fit_transform(X_train)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 916, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 960, in partial_fit
+    self.mean_, self.var_, self.n_samples_seen_ = _incremental_mean_and_var(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\extmath.py", line 1056, in _incremental_mean_and_var
+    temp = X - T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+2025-03-22 00:48:05,524 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 00:48:21,879 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 00:48:46,412 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 00:48:59,945 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 00:59:48,228 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 00:59:49,543 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 00:59:49,808 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-22 01:01:52,848 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 01:02:08,347 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 01:12:57,391 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 01:12:58,704 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 01:12:58,936 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-22 01:14:51,890 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 01:15:10,412 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 01:26:16,542 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 01:26:17,935 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 01:26:18,188 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-22 02:41:33,847 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 02:41:43,937 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 02:43:28,419 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 02:43:28,495 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 02:43:28,690 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-22 02:44:46,579 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 02:44:53,208 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 02:47:47,387 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 02:47:47,469 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 02:47:48,162 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-22 03:39:59,989 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 03:40:13,529 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 03:42:40,308 - ERROR - Lỗi nghiêm trọng: Invalid shape (508032,) for image data
+Traceback (most recent call last):
+  File "training_script.py", line 114, in main
+    visualize_feature_maps(images[idx_normal], title="Normal", detailed=args.detailed)
+  File "training_script.py", line 304, in visualize_feature_maps
+    plt.imshow(hog_image_rescaled, cmap='gray')
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\matplotlib\pyplot.py", line 2695, in imshow
+    __ret = gca().imshow(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\matplotlib\__init__.py", line 1474, in inner
+    return func(ax, *map(sanitize_sequence, args), **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\matplotlib\axes\_axes.py", line 5663, in imshow
+    im.set_data(X)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\matplotlib\image.py", line 710, in set_data
+    raise TypeError("Invalid shape {} for image data"
+TypeError: Invalid shape (508032,) for image data
+2025-03-22 03:43:58,732 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 03:50:43,838 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 04:10:46,946 - ERROR - Lỗi nghiêm trọng: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+Traceback (most recent call last):
+  File "training_script.py", line 134, in main
+    X_train = scaler.fit_transform(X_train)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\_set_output.py", line 157, in wrapped
+    data_to_wrap = f(self, X, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 916, in fit_transform
+    return self.fit(X, **fit_params).transform(X)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 839, in fit
+    return self.partial_fit(X, y, sample_weight)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\base.py", line 1152, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\preprocessing\_data.py", line 960, in partial_fit
+    self.mean_, self.var_, self.n_samples_seen_ = _incremental_mean_and_var(
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\extmath.py", line 1056, in _incremental_mean_and_var
+    temp = X - T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 16.4 GiB for an array with shape (4341, 508058) and data type float64
+2025-03-22 04:13:12,459 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 04:13:21,631 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 04:15:07,623 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 04:15:07,693 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 04:15:07,891 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
+2025-03-22 04:21:31,141 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 04:21:45,313 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 04:31:11,151 - ERROR - Lỗi nghiêm trọng: Found input variables with inconsistent numbers of samples: [4824, 4824, 804]
+Traceback (most recent call last):
+  File "training_script.py", line 121, in main
+    train_idx, test_idx = next(gss.split(X, y, groups=patient_groups))
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\model_selection\_split.py", line 1745, in split
+    X, y, groups = indexable(X, y, groups)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\validation.py", line 453, in indexable
+    check_consistent_length(*result)
+  File "C:\Users\admin\AppData\Local\Programs\Python\Python38\lib\site-packages\sklearn\utils\validation.py", line 407, in check_consistent_length
+    raise ValueError(
+ValueError: Found input variables with inconsistent numbers of samples: [4824, 4824, 804]
+2025-03-22 04:40:26,975 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 04:40:26,977 - ERROR - Lỗi nghiêm trọng: name 'process_image' is not defined
+Traceback (most recent call last):
+  File "training_script.py", line 93, in main
+    images, labels, patient_groups = load_dataset(DATA_DIR, img_size=(512, 512), augment=args.augment)
+  File "training_script.py", line 183, in load_dataset
+    img = process_image(img_path, img_size)
+NameError: name 'process_image' is not defined
+2025-03-22 04:46:43,397 - INFO - Bắt đầu quá trình xử lý dữ liệu huấn luyện
+2025-03-22 04:46:57,683 - INFO - Phát hiện 0 ảnh trùng lặp
+2025-03-22 04:56:46,069 - INFO - Bắt đầu huấn luyện mô hình
+2025-03-22 04:56:47,081 - INFO - Độ chính xác - Train: 1.00, Test: 1.00
+2025-03-22 04:56:47,320 - INFO - Model đã được lưu tại: models\lung_cancer_svm.joblib
