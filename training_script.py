@@ -1,5 +1,5 @@
 # ----------- [1] Cài đặt thư viện -----------
-# !pip install opencv-python scikit-learn scikit-image joblib tqdm argparse matplotlib imagehash thundersvm
+# !pip install opencv-python scikit-learn scikit-image joblib tqdm argparse matplotlib imagehash
 
 # ----------- [2] Import thư viện -----------
 import os
@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 
 from skimage import exposure
 from skimage.feature import hog, local_binary_pattern
-from thundersvm import SVC  # Sử dụng ThunderSVM thay cho sklearn.svm.SVC
+from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split, GridSearchCV, GroupShuffleSplit
@@ -139,10 +139,9 @@ def main():
         X_train = pca.fit_transform(X_train)
         X_test = pca.transform(X_test)
 
-        # ----------- [9] Huấn luyện mô hình -----------        
-        logging.info("Bắt đầu huấn luyện mô hình với ThunderSVM")
+        # ----------- [9] Huấn luyện mô hình -----------
+        logging.info("Bắt đầu huấn luyện mô hình")
         if args.grid_search:
-            # ThunderSVM có giao diện tương tự SVC nên vẫn có thể sử dụng GridSearchCV
             model = train_with_grid_search(X_train, y_train)
         else:
             if args.custom_weights:
@@ -150,10 +149,10 @@ def main():
             else:
                 model = train_default_model(X_train, y_train)
 
-        # ----------- [10] Đánh giá mô hình -----------        
+        # ----------- [10] Đánh giá mô hình -----------
         evaluate_model(model, X_train, X_test, y_train, y_test)
 
-        # ----------- [11] Lưu model -----------        
+        # ----------- [11] Lưu model -----------
         validate_production_requirements(model, scaler)
         dump(model, MODEL_SAVE_PATH)
         dump(scaler, SCALER_SAVE_PATH)
@@ -333,7 +332,7 @@ def train_with_grid_search(X_train, y_train):
     return grid_search.best_estimator_
 
 def train_default_model(X_train, y_train):
-    """Huấn luyện mô hình SVM với tham số mặc định giảm overfitting, sử dụng ThunderSVM."""
+    """Huấn luyện mô hình SVM với tham số mặc định giảm overfitting."""
     model = SVC(
         kernel='rbf',
         C=1.0,
@@ -346,7 +345,7 @@ def train_default_model(X_train, y_train):
     return model
 
 def train_custom_weight_model(X_train, y_train):
-    """Huấn luyện SVM sử dụng class weights tùy chỉnh, sử dụng ThunderSVM."""
+    """Huấn luyện SVM sử dụng class weights tùy chỉnh."""
     class_weights = {0: 1, 1: 2}
     model = SVC(
         kernel='rbf',
